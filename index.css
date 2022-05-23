@@ -1,0 +1,28 @@
+h1 {
+    color: goldenrod;
+}
+
+body {
+    background-color: green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode',
+        'Lucia Grande', 'Lucia Sans', sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    height: 40px;
+    background: goldenrod;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bold;
+    border: none;
+}
